@@ -9,5 +9,5 @@ end
 def print_first_directors_movie_titles
 pp directors_database
  this_movie = 0 
-  while this_movie < 
+  while this_movie < directors_database[]
 end
