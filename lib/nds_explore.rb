@@ -11,4 +11,5 @@ pp directors_database
  this_movie = 0 
   while this_movie < directors_database[:movies].count do 
     puts directors_database[:movies][:title]
+     this_movie+=1
 end
